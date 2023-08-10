@@ -1,6 +1,9 @@
 # parkingLot
 This Application lets user park and unpark their vehicle depending on the availability
 It has the following Capability;
+
+
+
 It has been made by Having the following scenarios in Mind.
 --
 Create the parking lot.
